@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B9FCE60D-E146-7620-3052-44BC209B4D15}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Agent.cs" Line="109" Column="21" />
+      <File FileName="Assets/Scripts/BattleManager.cs" Line="14" Column="20" />
+      <File FileName="Assets/Scripts/Actions/DamageAction.cs" />
+      <File FileName="Assets/Scripts/Actions/DamageOverTimeAction.cs" />
+      <File FileName="Assets/Scripts/Actions/HealAction.cs" />
+      <File FileName="Assets/Scripts/Actions/HealOverTimeAction.cs" />
+      <File FileName="Assets/Scripts/Actions/BuffAction.cs" />
+      <File FileName="Assets/Scripts/Actions/DebuffAction.cs" />
+      <File FileName="Assets/Scripts/NameGenerator.cs" />
+      <File FileName="Assets/Scripts/Actions/ActionBase.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Astrocade" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Actions" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c3f26634-a4f1-49c6-826c-b9f3bd191bae" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
